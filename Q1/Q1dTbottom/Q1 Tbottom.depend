@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1458513035 source:c:\backup daten\dateien\05_uni\2015_university_of_nottingham\02_classes\05_classes_spring\numerical methods\coursework1\q1 euler\q1 tbottom\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cassert>
+	<cmath>
+
